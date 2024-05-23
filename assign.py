@@ -17,8 +17,6 @@ class Preprocessor:
 
     valid_products = [
         'suitcase',
-        'handbag',
-        'bottle',
         'car',
         'chair',
         'couch'
